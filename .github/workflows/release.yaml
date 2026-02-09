@@ -13,7 +13,7 @@ env:
 
 jobs:
   prepare:
-    runs-on: self-hosted
+    runs-on: [arc-runner-set-amd64]
     permissions:
       contents: write
     steps:
@@ -43,7 +43,7 @@ jobs:
   build-and-push-docker:
     name: Build Multi-arch Docker
     needs: [prepare]
-    runs-on: [self-hosted, macbook]
+    runs-on: [arc-runner-set-amd64]
 
     permissions:
       contents: read
@@ -97,15 +97,9 @@ jobs:
           # cache-to: type=gha,mode=max
           provenance: false
 
-      - name: Clean up Docker images
-        if: always() # Also run in case of errors
-        run: |
-          # Entferne dangling images
-          docker image prune -f
-
   helm-chart:
     needs: [prepare, build-and-push-docker]
-    runs-on: self-hosted
+    runs-on: [arc-runner-set-amd64]
     permissions:
       contents: write
       packages: write
