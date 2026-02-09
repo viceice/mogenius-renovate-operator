@@ -85,7 +85,7 @@ func (s *Server) getRenovateJobLogs(w http.ResponseWriter, r *http.Request) {
 		project,
 	)
 	if err != nil {
-		internalServerError(w, err, "failed to get logs for project")
+		internalServerError(w, err, "failed to get logs for project, probably the completed job has been cleaned up already")
 		return
 	}
 
