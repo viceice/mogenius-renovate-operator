@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/mogenius/renovate-operator/compare/2.1.1...2.1.2) (2026-02-09)
+
+
+### Bug Fixes
+
+* using updated infos to create new jobs. ([1e313bf](https://github.com/mogenius/renovate-operator/commit/1e313bfc6739bc67a8f9614c8b33f7db6c74d4a9))
+
 ## [2.1.1](https://github.com/mogenius/renovate-operator/compare/2.1.0...2.1.1) (2026-02-05)
 
 
