@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/mogenius/renovate-operator/compare/2.1.2...2.2.0) (2026-02-09)
+
+
+### Features
+
+* job management based on labels to elimintate race conditions ([774a253](https://github.com/mogenius/renovate-operator/commit/774a2539ba2e9210d8cd1382151fdd245027a25e))
+
 ## [2.1.2](https://github.com/mogenius/renovate-operator/compare/2.1.1...2.1.2) (2026-02-09)
 
 
