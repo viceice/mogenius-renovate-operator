@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/mogenius/renovate-operator/compare/2.2.1...2.2.2) (2026-02-09)
+
+
+### Bug Fixes
+
+* conflix handling. ([a3057a8](https://github.com/mogenius/renovate-operator/commit/a3057a8c2ce0424fe82d599900201cf102873ee2))
+
 ## [2.2.1](https://github.com/mogenius/renovate-operator/compare/2.2.0...2.2.1) (2026-02-09)
 
 
