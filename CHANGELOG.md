@@ -1,3 +1,10 @@
+## [2.2.4](https://github.com/mogenius/renovate-operator/compare/2.2.3...2.2.4) (2026-02-10)
+
+
+### Bug Fixes
+
+* release improvements ([a67cd4d](https://github.com/mogenius/renovate-operator/commit/a67cd4d8bcd8d4f1bee9ef08c46f692282d35b90))
+
 ## [2.2.3](https://github.com/mogenius/renovate-operator/compare/2.2.2...2.2.3) (2026-02-10)
 
 
