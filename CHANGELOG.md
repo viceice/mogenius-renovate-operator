@@ -1,3 +1,10 @@
+## [2.2.6](https://github.com/mogenius/renovate-operator/compare/2.2.5...2.2.6) (2026-02-10)
+
+
+### Bug Fixes
+
+* issue48 performance issues ([490615b](https://github.com/mogenius/renovate-operator/commit/490615bb1ab263994c7541b067d54000f3f5a0d3))
+
 ## [2.2.5](https://github.com/mogenius/renovate-operator/compare/2.2.4...2.2.5) (2026-02-10)
 
 
