@@ -1,3 +1,10 @@
+## [2.2.5](https://github.com/mogenius/renovate-operator/compare/2.2.4...2.2.5) (2026-02-10)
+
+
+### Bug Fixes
+
+* docker login is not enough to push helm charts to ghcr ([9c30990](https://github.com/mogenius/renovate-operator/commit/9c309909fa6499ab1bf9f8864a70041a5f6972b1))
+
 ## [2.2.4](https://github.com/mogenius/renovate-operator/compare/2.2.3...2.2.4) (2026-02-10)
 
 
