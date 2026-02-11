@@ -1,3 +1,10 @@
+## [2.3.2](https://github.com/mogenius/renovate-operator/compare/2.3.1...2.3.2) (2026-02-11)
+
+
+### Bug Fixes
+
+* schedules only work on the leading instance ([69f1bc7](https://github.com/mogenius/renovate-operator/commit/69f1bc7b32a6f8fb0037cc5cbd82806038aefdb7))
+
 ## [2.3.1](https://github.com/mogenius/renovate-operator/compare/2.3.0...2.3.1) (2026-02-11)
 
 
