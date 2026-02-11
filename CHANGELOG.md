@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/mogenius/renovate-operator/compare/2.3.0...2.3.1) (2026-02-11)
+
+
+### Bug Fixes
+
+* add variable to set dashboard datasource ([5d5c256](https://github.com/mogenius/renovate-operator/commit/5d5c2563093a2d7aed7e388253b5ee12fdb6ec89))
+
 # [2.3.0](https://github.com/mogenius/renovate-operator/compare/2.2.6...2.3.0) (2026-02-11)
 
 
