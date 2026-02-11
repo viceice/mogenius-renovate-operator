@@ -35,5 +35,10 @@ rules:
   - apiGroups: ["coordination.k8s.io"]
     resources: ["leases"]
     verbs: ["create", "get", "update"]
+
+  # Allow creating events for leader election
+  - apiGroups: [""]
+    resources: ["events"]
+    verbs: ["create", "patch"]
   {{- end }}
 {{- end }}
