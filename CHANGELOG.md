@@ -1,3 +1,10 @@
+## [2.3.3](https://github.com/mogenius/renovate-operator/compare/2.3.2...2.3.3) (2026-02-11)
+
+
+### Bug Fixes
+
+* allow the operator to create events for leader election ([14ad36b](https://github.com/mogenius/renovate-operator/commit/14ad36b38dadca817d3c30b3b5251af0c73120d0))
+
 ## [2.3.2](https://github.com/mogenius/renovate-operator/compare/2.3.1...2.3.2) (2026-02-11)
 
 
