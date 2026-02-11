@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/mogenius/renovate-operator/compare/2.2.6...2.3.0) (2026-02-11)
+
+
+### Features
+
+* add leader election support for HA deployments ([0ce9d29](https://github.com/mogenius/renovate-operator/commit/0ce9d293793dceb897e9622a81400193edeb26c7))
+
 ## [2.2.6](https://github.com/mogenius/renovate-operator/compare/2.2.5...2.2.6) (2026-02-10)
 
 
