@@ -1,3 +1,12 @@
+## [2.4.1](https://github.com/mogenius/renovate-operator/compare/2.4.0...2.4.1) (2026-02-12)
+
+
+### Bug Fixes
+
+* issues with parsing onboarding logs ([3265a1e](https://github.com/mogenius/renovate-operator/commit/3265a1e4695dc36384be8adb1e18e34acc2eb2a8))
+* **logParser:** issues if onboarding field does not exist ([76f3166](https://github.com/mogenius/renovate-operator/commit/76f3166b74f9b0fb8a8f30f58e732232263cb0fb))
+* **ui:** sorting for non onboarded repositories ([f71b686](https://github.com/mogenius/renovate-operator/commit/f71b6863fd9f51c5409441e645c76b50af060f8d))
+
 # [2.4.0](https://github.com/mogenius/renovate-operator/compare/2.3.3...2.4.0) (2026-02-12)
 
 
