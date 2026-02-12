@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/mogenius/renovate-operator/compare/2.5.0...2.6.0) (2026-02-12)
+
+
+### Features
+
+* **helm:** adding scheduling options for the operator ([922f095](https://github.com/mogenius/renovate-operator/commit/922f095c3c5589da89914a3c05e3cd5d8ddf379b))
+
 # [2.5.0](https://github.com/mogenius/renovate-operator/compare/2.4.2...2.5.0) (2026-02-12)
 
 
