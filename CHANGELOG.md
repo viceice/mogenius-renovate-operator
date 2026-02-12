@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/mogenius/renovate-operator/compare/2.4.2...2.5.0) (2026-02-12)
+
+
+### Features
+
+* **chart:** add interval option to ServiceMonitor ([e7b076c](https://github.com/mogenius/renovate-operator/commit/e7b076c5859e9ddc04e3660ba8aabf54042cb02a))
+
 ## [2.4.2](https://github.com/mogenius/renovate-operator/compare/2.4.1...2.4.2) (2026-02-12)
 
 
