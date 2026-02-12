@@ -1,3 +1,16 @@
+# [2.4.0](https://github.com/mogenius/renovate-operator/compare/2.3.3...2.4.0) (2026-02-12)
+
+
+### Bug Fixes
+
+* handle stderr in discovery pod logs corrupting JSON output ([e632e3d](https://github.com/mogenius/renovate-operator/commit/e632e3df341a38b3fc82ae709c6bae007f20b463))
+* minor adjustments ([b551c85](https://github.com/mogenius/renovate-operator/commit/b551c85123a8b0a12270db2f28eefe7a5c16dd74))
+
+
+### Features
+
+* display repos without renovate config in UI ([b7f2a56](https://github.com/mogenius/renovate-operator/commit/b7f2a563ba5c5680f75f70e849a34c160bb2eb1c))
+
 ## [2.3.3](https://github.com/mogenius/renovate-operator/compare/2.3.2...2.3.3) (2026-02-11)
 
 
