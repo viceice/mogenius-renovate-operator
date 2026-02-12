@@ -1,3 +1,10 @@
+## [2.4.2](https://github.com/mogenius/renovate-operator/compare/2.4.1...2.4.2) (2026-02-12)
+
+
+### Bug Fixes
+
+* add dynamic buffer size for log parsing ([3926fcd](https://github.com/mogenius/renovate-operator/commit/3926fcd44ccb2fe37369189a30f489483002d44e))
+
 ## [2.4.1](https://github.com/mogenius/renovate-operator/compare/2.4.0...2.4.1) (2026-02-12)
 
 
