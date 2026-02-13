@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/mogenius/renovate-operator/compare/2.6.0...2.6.1) (2026-02-13)
+
+
+### Bug Fixes
+
+* **deps:** update golang docker tag to v1.26 ([ec4b5e9](https://github.com/mogenius/renovate-operator/commit/ec4b5e94611da657c8c93819b1f7d6d8b53a250b))
+
 # [2.6.0](https://github.com/mogenius/renovate-operator/compare/2.5.0...2.6.0) (2026-02-12)
 
 
