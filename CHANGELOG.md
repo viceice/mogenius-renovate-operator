@@ -1,3 +1,10 @@
+## [2.6.2](https://github.com/mogenius/renovate-operator/compare/2.6.1...2.6.2) (2026-02-13)
+
+
+### Bug Fixes
+
+* adding imagePullSecrets to the operator ([2c31959](https://github.com/mogenius/renovate-operator/commit/2c31959c3d066ded88b4e6d61c559e704ccf09e0))
+
 ## [2.6.1](https://github.com/mogenius/renovate-operator/compare/2.6.0...2.6.1) (2026-02-13)
 
 
