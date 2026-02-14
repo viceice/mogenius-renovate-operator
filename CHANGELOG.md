@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/mogenius/renovate-operator/compare/2.6.2...2.7.0) (2026-02-14)
+
+
+### Features
+
+* adding values for deploy and sa labels and annotations ([2b79274](https://github.com/mogenius/renovate-operator/commit/2b79274fd1714088d436aadd2b463b27c1403ed8))
+
 ## [2.6.2](https://github.com/mogenius/renovate-operator/compare/2.6.1...2.6.2) (2026-02-13)
 
 
