@@ -1,3 +1,10 @@
+# [2.8.0](https://github.com/mogenius/renovate-operator/compare/2.7.0...2.8.0) (2026-02-18)
+
+
+### Features
+
+* support custom labels and annotations on pod template ([1547d93](https://github.com/mogenius/renovate-operator/commit/1547d939b71f607b17ea4205395c8b1b2322354b)), closes [#132](https://github.com/mogenius/renovate-operator/issues/132)
+
 # [2.7.0](https://github.com/mogenius/renovate-operator/compare/2.6.2...2.7.0) (2026-02-14)
 
 
