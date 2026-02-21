@@ -1,3 +1,10 @@
+## [2.8.3](https://github.com/mogenius/renovate-operator/compare/2.8.2...2.8.3) (2026-02-21)
+
+
+### Bug Fixes
+
+* **helm:** adding values for additional operator env vars ([ca7f597](https://github.com/mogenius/renovate-operator/commit/ca7f59779db716f7f6b3690cd49c80152a153291))
+
 ## [2.8.2](https://github.com/mogenius/renovate-operator/compare/2.8.1...2.8.2) (2026-02-21)
 
 
