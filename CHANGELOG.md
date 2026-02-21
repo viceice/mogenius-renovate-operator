@@ -1,3 +1,10 @@
+## [2.8.1](https://github.com/mogenius/renovate-operator/compare/2.8.0...2.8.1) (2026-02-21)
+
+
+### Bug Fixes
+
+* additional valid issue content ([fca44ef](https://github.com/mogenius/renovate-operator/commit/fca44efb3ea050b8fa1defa4a19da9fa1937e8e9))
+
 # [2.8.0](https://github.com/mogenius/renovate-operator/compare/2.7.0...2.8.0) (2026-02-18)
 
 
