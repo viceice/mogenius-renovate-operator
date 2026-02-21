@@ -7,9 +7,9 @@ appVersion: 2.8.1
 home: https://mogenius.com
 icon: https://app.mogenius.com/assets/logos/logo-mogenius-signet-neg.svg
 sources:
+  - https://github.com/mogenius/renovate-operator
   - https://helm.mogenius.com/public
   - oci://ghcr.io/mogenius/helm-charts/renovate-operator
-  - https://github.com/mogenius/renovate-operator
 maintainers:
   - email: ruediger@mogenius.com
     name: Rüdiger Küpper @mogenius
