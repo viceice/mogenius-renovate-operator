@@ -1,3 +1,10 @@
+## [2.8.2](https://github.com/mogenius/renovate-operator/compare/2.8.1...2.8.2) (2026-02-21)
+
+
+### Bug Fixes
+
+* move github repo url as first url ([e92b75d](https://github.com/mogenius/renovate-operator/commit/e92b75d5a43ac9b7a47de4318adf51c2afce3df0))
+
 ## [2.8.1](https://github.com/mogenius/renovate-operator/compare/2.8.0...2.8.1) (2026-02-21)
 
 
