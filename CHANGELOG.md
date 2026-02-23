@@ -1,3 +1,10 @@
+## [2.8.7](https://github.com/mogenius/renovate-operator/compare/2.8.6...2.8.7) (2026-02-23)
+
+
+### Bug Fixes
+
+* install and upgrade CRD via pre-hook job to ensure schema is always up to date ([4feffdd](https://github.com/mogenius/renovate-operator/commit/4feffddf3ad2a870d81a64bf8d9f46464193f831)), closes [#134](https://github.com/mogenius/renovate-operator/issues/134)
+
 ## [2.8.6](https://github.com/mogenius/renovate-operator/compare/2.8.5...2.8.6) (2026-02-23)
 
 
