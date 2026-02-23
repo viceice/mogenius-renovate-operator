@@ -3881,12 +3881,12 @@ spec:
                 items:
                   description: Status of a single project within a RenovateJob
                   properties:
-                    hasRenovateConfig:
-                      type: boolean
                     lastRun:
                       format: date-time
                       type: string
                     name:
+                      type: string
+                    renovateResultStatus:
                       type: string
                     status:
                       type: string
