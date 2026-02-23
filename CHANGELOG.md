@@ -1,3 +1,11 @@
+## [2.9.2](https://github.com/mogenius/renovate-operator/compare/2.9.1...2.9.2) (2026-02-23)
+
+
+### Bug Fixes
+
+* delete crds after migration to helm hook for install ([338786f](https://github.com/mogenius/renovate-operator/commit/338786f4751a20022305d31a76f33ac9a0efcd19))
+* improving handling of the repository finished parsing ([03325c4](https://github.com/mogenius/renovate-operator/commit/03325c4b86f7609331ac8b99236ed495473e2b56))
+
 ## [2.9.1](https://github.com/mogenius/renovate-operator/compare/2.9.0...2.9.1) (2026-02-23)
 
 
