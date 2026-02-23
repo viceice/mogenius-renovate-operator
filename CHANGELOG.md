@@ -1,3 +1,11 @@
+## [2.8.5](https://github.com/mogenius/renovate-operator/compare/2.8.4...2.8.5) (2026-02-23)
+
+
+### Bug Fixes
+
+* added documentation ([d13a343](https://github.com/mogenius/renovate-operator/commit/d13a343e8b10163c8f8e48fed1b85ae79040ac49))
+* pass imagepullsecrets to operator managed pods ([e07724c](https://github.com/mogenius/renovate-operator/commit/e07724cd80a62885a91abb07df0efdabc8d23c77))
+
 ## [2.8.4](https://github.com/mogenius/renovate-operator/compare/2.8.3...2.8.4) (2026-02-22)
 
 
