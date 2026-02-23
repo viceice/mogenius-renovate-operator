@@ -1,3 +1,10 @@
+# [2.9.0](https://github.com/mogenius/renovate-operator/compare/2.8.7...2.9.0) (2026-02-23)
+
+
+### Features
+
+* **charts:** add values to set the image for the crd-hook job ([e722889](https://github.com/mogenius/renovate-operator/commit/e7228890e83f3c8fbdb3abe5afc42933380e502e)), closes [#147](https://github.com/mogenius/renovate-operator/issues/147)
+
 ## [2.8.7](https://github.com/mogenius/renovate-operator/compare/2.8.6...2.8.7) (2026-02-23)
 
 
