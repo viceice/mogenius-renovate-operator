@@ -1,3 +1,10 @@
+## [2.9.1](https://github.com/mogenius/renovate-operator/compare/2.9.0...2.9.1) (2026-02-23)
+
+
+### Bug Fixes
+
+* keep annotation is no longer needed ([e55eff4](https://github.com/mogenius/renovate-operator/commit/e55eff45ebcb1f253f8930c1c6dbc7f396d89c07))
+
 # [2.9.0](https://github.com/mogenius/renovate-operator/compare/2.8.7...2.9.0) (2026-02-23)
 
 
