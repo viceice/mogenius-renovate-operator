@@ -1,3 +1,10 @@
+## [2.8.6](https://github.com/mogenius/renovate-operator/compare/2.8.5...2.8.6) (2026-02-23)
+
+
+### Bug Fixes
+
+* display the last run via tooltip ([24db869](https://github.com/mogenius/renovate-operator/commit/24db869e03c0fcfb25bbce5ae731ba4b4055a1bc))
+
 ## [2.8.5](https://github.com/mogenius/renovate-operator/compare/2.8.4...2.8.5) (2026-02-23)
 
 
