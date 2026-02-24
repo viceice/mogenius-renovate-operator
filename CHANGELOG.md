@@ -1,3 +1,12 @@
+## [2.9.3](https://github.com/mogenius/renovate-operator/compare/2.9.2...2.9.3) (2026-02-24)
+
+
+### Bug Fixes
+
+* adding settings to disable crd install process ([e6dda05](https://github.com/mogenius/renovate-operator/commit/e6dda05f97f6dea75a0122515246d742015d62ef))
+* improve dependency dashboard matching for webhooks ([60d5a4c](https://github.com/mogenius/renovate-operator/commit/60d5a4c9628c83fb8366a57f0026a0ed1b212a55)), closes [#152](https://github.com/mogenius/renovate-operator/issues/152)
+* use server side apply for crds ([dd1aaf1](https://github.com/mogenius/renovate-operator/commit/dd1aaf120c79a3f45b34176029e4d931bbbbf621)), closes [#150](https://github.com/mogenius/renovate-operator/issues/150)
+
 ## [2.9.2](https://github.com/mogenius/renovate-operator/compare/2.9.1...2.9.2) (2026-02-23)
 
 
