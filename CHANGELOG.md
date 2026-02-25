@@ -1,3 +1,10 @@
+# [2.13.0](https://github.com/mogenius/renovate-operator/compare/2.12.0...2.13.0) (2026-02-25)
+
+
+### Features
+
+* set DNSPolicy in JobSpec ([2922494](https://github.com/mogenius/renovate-operator/commit/2922494323083e87f370708cfcc293b0563d57a8))
+
 # [2.12.0](https://github.com/mogenius/renovate-operator/compare/2.11.0...2.12.0) (2026-02-25)
 
 
