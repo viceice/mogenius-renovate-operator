@@ -1,3 +1,11 @@
+# [2.10.0](https://github.com/mogenius/renovate-operator/compare/2.9.4...2.10.0) (2026-02-25)
+
+
+### Features
+
+* **charts:** add capabilities.drop to securityContexts ([5b76e05](https://github.com/mogenius/renovate-operator/commit/5b76e05fa90e0420486367d1a0acfc5cd8e06cdd))
+* **charts:** set security context for crd-hook job ([0b94d4e](https://github.com/mogenius/renovate-operator/commit/0b94d4e29af5bd1346a0056e59af7964b4ae02b0)), closes [#154](https://github.com/mogenius/renovate-operator/issues/154)
+
 ## [2.9.4](https://github.com/mogenius/renovate-operator/compare/2.9.3...2.9.4) (2026-02-24)
 
 
