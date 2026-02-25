@@ -1,3 +1,10 @@
+# [2.11.0](https://github.com/mogenius/renovate-operator/compare/2.10.0...2.11.0) (2026-02-25)
+
+
+### Features
+
+* capture duration of renovate runs ([e49b79f](https://github.com/mogenius/renovate-operator/commit/e49b79f659d5cda8efab0007d5322403ac87a07d)), closes [#137](https://github.com/mogenius/renovate-operator/issues/137)
+
 # [2.10.0](https://github.com/mogenius/renovate-operator/compare/2.9.4...2.10.0) (2026-02-25)
 
 
