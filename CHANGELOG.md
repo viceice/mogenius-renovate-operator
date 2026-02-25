@@ -1,3 +1,10 @@
+# [2.12.0](https://github.com/mogenius/renovate-operator/compare/2.11.0...2.12.0) (2026-02-25)
+
+
+### Features
+
+* **helm:** adding optional templating of CRDs ([a8adbfb](https://github.com/mogenius/renovate-operator/commit/a8adbfba615447b2ed85eefc7729a4ac4ed53678))
+
 # [2.11.0](https://github.com/mogenius/renovate-operator/compare/2.10.0...2.11.0) (2026-02-25)
 
 
